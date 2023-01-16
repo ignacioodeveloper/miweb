@@ -1,0 +1,4 @@
+.env
+
+#archivos y carpetas que no queremos que lea git
+# node/modeles
